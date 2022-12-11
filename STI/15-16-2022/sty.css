@@ -1,0 +1,22 @@
+
+  p{
+    width: 250px;
+    height: 110px;
+    text-align: justify;
+    border: 1px solid black;
+    overflow: auto;  }
+    
+
+ }
+
+ body{
+background-image: url(i2.jpg);
+background-repeat:no-repeat;
+background-size: contain;
+text-align: center;
+text-decoration: underline;
+
+
+
+
+ }

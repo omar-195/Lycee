@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(206, 205, 205);
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: rgb(255, 254, 254);
+    border-radius: 5px;
+    width: 100%;
+    height: 75px;
+}
+.img1{
+    height: 74px;
+    width: 120px;
+    float: left;
+}
+h1{
+    font-size: 50px;
+    color: rgb(156, 11, 11);
+}
+nav{
+    background-color: rgb(170, 60, 60);
+    width: 100%;
+    height: 45px;
+    margin-top: 9px;
+    border-radius: 5px;
+    margin-bottom: 9px;
+    text-align: center;
+}
+a{
+    color: aliceblue;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+section{
+    background-color: rgb(243, 231, 231);
+    width: 100%;
+    height: 800px;
+    border-radius: 5px
+}
+img{
+    height: 250px;
+    width: 200px;
+    float: left;
+    margin-left: 5px;
+    
+}
+footer {
+    margin-top: 9px;
+    background-color: rgba(70, 48, 48, 0.322);
+    height: 20px;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.card {
+    width: 50%;
+    padding: 20px;
+    margin: 10px;
+    background-color: antiquewhite;
+    border-radius: 40px;
+}
+
+.card img {
+    margin-right: 20px;
+    border-radius: 40px;
+    margin-bottom: 40px;
+}
+
+.card a {
+    background-color: chocolate;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin: 0px;
+}

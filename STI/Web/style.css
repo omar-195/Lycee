@@ -50,16 +50,13 @@ section {
   width: 100%;
   min-height: 90vh;
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
   place-items: center;
   grid-gap: 20px;
   background-color: beige;
 }
 section .description {
-  margin-top: 15px;
-  background-color: white;
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -83,4 +80,4 @@ section .description p a {
 }
 section .description img {
   width: 250px;
-} /*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
